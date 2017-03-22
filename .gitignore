@@ -4,4 +4,18 @@ db.json
 *.log
 node_modules/
 public/
-.deploy*/
+.deploy*/.DS_Store
+.idea/
+*.bak
+*_tmp
+
+
+# Ignore unused verdors' files
+source/lib/fancybox/*
+!source/lib/fancybox/source/
+
+source/lib/font-awesome/less/
+source/lib/font-awesome/scss/
+
+source/lib/ua-parser-js/*
+!source/lib/ua-parser-js/dist/
