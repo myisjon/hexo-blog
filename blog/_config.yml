@@ -72,3 +72,11 @@ deploy:
   repo: git@github.com:myisjon/blog.git
   branch: master
   message: {{ now('YYYY-MM-DD HH:mm:ss') }}
+
+
+# local search
+search:
+    path: search.xml
+    field: post
+    format: html
+    limit: 10000

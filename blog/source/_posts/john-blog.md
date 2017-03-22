@@ -7,3 +7,5 @@ categories:
 ---
 ## 测试1
 ### 脚标1
+#### 公式测试
+$$ evidence\_{i}=\sum \_{j}W\_{ij}x\_{j}+b\_{i} $$
