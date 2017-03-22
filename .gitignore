@@ -6,6 +6,9 @@ node_modules/
 public/
 .deploy*/.DS_Store
 .idea/
+*.bak
+*_tmp
+
 
 # Ignore unused verdors' files
 source/lib/fancybox/*
