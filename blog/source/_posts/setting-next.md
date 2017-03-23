@@ -18,6 +18,7 @@ $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 **可选操作(如果需要将Next主题加入到站点的项目里,可以执行一下操作)**:
 ```
 $ rm -rf themes/next/.git*
+```
 
 ### 修改**<font color="red">站点/font>**_config.yml文件
 ```
