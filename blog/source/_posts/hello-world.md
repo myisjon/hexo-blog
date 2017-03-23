@@ -74,7 +74,7 @@ npm install -g hexo-cli
 
 好了,hexo环境就是这样安装好了,下面开始弄自己的blog站点了
 
-## 第三部
+## 第三部(开始建站)
 ### 初始化站点
 ```bash
 $ hexo init <folder>
@@ -109,7 +109,7 @@ blog
     3. [github 大全](https://github.com/search?o=desc&q=hexo-theme&s=stars&type=Repositories&utf8=%E2%9C%93)
 
 好了,其实到了这步,已经可以运行了.
-## 调试运行看结果
+## 第四步(调试运行看结果,部署)
 由于hexo 3.0 已经将服务器独立成了个别模块, 所以需要安装[hexo-server](https://github.com/hexojs/hexo-server) 才能使用。
 ```bash
 $ npm install hexo-server --save
