@@ -20,7 +20,7 @@ $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 $ rm -rf themes/next/.git*
 ```
 
-### 修改**<font color="red">站点/font>**_config.yml文件
+### 修改**<font color="red">站点</font>**_config.yml文件
 ```
 theme: next
 ```
