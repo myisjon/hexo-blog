@@ -1,5 +1,5 @@
 ---
-title: john-blog
+title: 配置Next 主题
 tags: [Next, Hexo主题配置]
 categories:
 - init
