@@ -24,3 +24,5 @@ source/lib/ua-parser-js/*
 # environment
 venv
 venv.sh
+
+*.pyc
