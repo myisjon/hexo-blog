@@ -6,6 +6,7 @@ categories:
   - basic libs
 tags:
   - python
+  - mutilprocess
 ---
 
 python 受到本身的GIL(Global Interpreter Lock)的影响,单进程无法充分利用多核CPU的计算资源,这是一个性能上非常浪费的事情,但是Python并没有就不能使用多核CPU的计算资源,可以使用多进程的方式来弥补GIL的问题,虽然GIL限制了单进程使用多核,但是它的存在使得单线程的情况更快,关于GIL可以看看[CPython官网的wiki解释](https://wiki.python.org/moin/GlobalInterpreterLock)。本文对Python的多进程的使用给出简单的使用例子
